@@ -1,0 +1,22 @@
+{
+  "name": "link",
+  "version": "1.0.0",
+  "description": "simple chat",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hyunmin-Park/Link-Chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hyunmin-Park/Link-Chat/issues"
+  },
+  "homepage": "https://github.com/Hyunmin-Park/Link-Chat#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
