@@ -1,0 +1,10 @@
+extends layouts/main
+
+block content 
+    .login-logo 
+        i.fas.fa-link
+    .form-container 
+        form
+            input(type="email", name="email", placeholder="Email", required=true)
+            input(type="password" name="password", placeholder="Password", required=true)
+            input(type="submit")
